@@ -1,0 +1,6 @@
+.testimonial-card {
+  transition: 0.3s;
+}
+.testimonial-card:hover {
+  transform: translateY(-10px);
+}
